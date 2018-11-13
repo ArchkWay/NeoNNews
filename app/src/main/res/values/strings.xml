@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="error">Error</string>
+    <string name="pojoText">Самое дорогое в мире платье Мэрилин Монро продадут на аукционе</string>
+    <string name="pojoDesc">Платье Мэрилин Монро, в котором она выступила на 45-м дне рождения американского президента Джона Кеннеди, продадут с аукциона.</string>
+    <string name="pojoTime">2016-09-03T10:15:21.104Z</string>
+    <string name="next_page">NEXT PAGE</string>
+    <string name="prev_page">prev page</string>
+</resources>
